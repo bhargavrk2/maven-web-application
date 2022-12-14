@@ -48,7 +48,7 @@ out.println();
 <hr>
 <hr>
 <p align=center>“Happy birthday! I hope all your birthday wishes and dreams come true.”</p>
-<p align=center><small>“ Another adventure filled year awaits you. Welcome it by celebrating your birthday with pomp and splendor. Wishing you a very happy and fun-filled birthday!”</a> </small></p>
+<p align=center><small>“ Another adventure filled year awaits you. Welcome it by celebrating your birthday with pomp and splendor. Wishing you a very happy and fun-filled birthday!”</a> </medium></p>
 
 </body>
 </html>
