@@ -26,8 +26,8 @@
 		<a href="mailto:saisoumyapappusanisb@gmail.com"></a>
 	</span>
 </div>
-<h1 align=center>“Happy birthday! I hope all your birthday wishes and dreams come true”</h1>
-<h1 align=center><small>“ Another adventure filled year awaits you. Welcome it by celebrating your birthday with pomp and splendor. Wishing you a very happy and fun-filled birthday!”</a> </medium></h1>
+<h1 align=center> 😍 “Happy birthday! I hope all your birthday wishes and dreams come true” 😍</h1>
+<h1 align=center><small> 😍 “ Another adventure filled year awaits you. Welcome it by celebrating your birthday with pomp and splendor. Wishing you a very happy and fun-filled birthday!” 😍</a> </medium></h1>
 
 </body>
 </html>
