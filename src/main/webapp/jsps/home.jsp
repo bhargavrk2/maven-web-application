@@ -19,7 +19,6 @@
 <hr>
 <br>
 	<h1><h3></h3><br>
-
 <% 
 String ip = "";
 InetAddress inetAddress = InetAddress.getLocalHost();
@@ -31,7 +30,6 @@ out.println();
 </h1>
 <br>
 <h1><h3>             “Count your life by smiles, not tears. Count your age by friends, not years. Happy birthday!” </h3><br>
-
 <hr>
 <div style="text-align: center;">
 	<span>
@@ -43,10 +41,6 @@ out.println();
 		<a href="mailto:saisoumyapappusanisb@gmail.com"></a>
 	</span>
 </div>
-<hr>
-	
-<hr>
-<hr>
 <p align=center>“Happy birthday! I hope all your birthday wishes and dreams come true.”</p>
 <p align=center><small>“ Another adventure filled year awaits you. Welcome it by celebrating your birthday with pomp and splendor. Wishing you a very happy and fun-filled birthday!”</a> </medium></p>
 
