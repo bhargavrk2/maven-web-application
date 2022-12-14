@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
+<title>SOWMYA</title>
 <link href="images/9" rel="icon">
 </head>
 </head>
