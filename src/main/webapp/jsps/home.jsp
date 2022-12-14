@@ -11,7 +11,11 @@
 <body>
 <h1 align="center">SAI SOWMYA PAPPUSANI </h1>
 <h1 align="center">WISH U A MANY MORE HAPPY RETURNS OF THE DAY</h1>
-	<img src="images/3.jpg" alt="" width="500">
+	<hr>
+<div style="text-align: center;">
+	<span>
+		<img src="images/3.jpg" alt="" width="500">
+	</span>
 <hr>
 <br>
 	<h1><h3></h3><br>
