@@ -34,13 +34,9 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/9.jpg" alt="" width="500">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore,
-		+91-9980923226
-		devopstrainingblr@gmail.com
+		
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:saisoumyapappusanisb@gmail.com">Mail to sowmya</a>
 	</span>
 </div>
 <hr>
