@@ -21,7 +21,7 @@
 	<h1><h3></h3><br>
 <br>
 <%out.println();%>
-<h1><h3>             “Count your life by smiles, not tears. Count your age by friends, not years. Happy birthday!” </h3><br>
+<h2><h3>             “Count your life by smiles, not tears. Count your age by friends, not years. Happy birthday!” </h2><br>
 <div style="text-align: center;">
 	<span>
 		<img src="images/9.jpg" alt="" width="500">
