@@ -19,18 +19,9 @@
 <hr>
 <br>
 	<h1><h3></h3><br>
-<% 
-String ip = "";
-InetAddress inetAddress = InetAddress.getLocalHost();
-ip = inetAddress.getHostAddress();
-out.println(); 
-%>
 <br>
 <%out.println();%>
-</h1>
-<br>
 <h1><h3>             “Count your life by smiles, not tears. Count your age by friends, not years. Happy birthday!” </h3><br>
-<hr>
 <div style="text-align: center;">
 	<span>
 		<img src="images/9.jpg" alt="" width="500">
