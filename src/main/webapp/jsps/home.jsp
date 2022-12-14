@@ -19,15 +19,14 @@
 String ip = "";
 InetAddress inetAddress = InetAddress.getLocalHost();
 ip = inetAddress.getHostAddress();
-out.println("Server Host Name :: "+inetAddress.getHostName()); 
+out.println(); 
 %>
 <br>
-<%out.println("Server IP Address :: "+ip);%>
+<%out.println();%>
 </h1>
 <br>
-<h1><h3> Client Side IP Address </h3><br>
-<%out.print( "Client IP Address :: " + request.getRemoteAddr() ); %><br>
-<%out.print( "Client Name Host :: "+ request.getRemoteHost() );%><br></h1>
+<h1><h3>             “Count your life by smiles, not tears. Count your age by friends, not years. Happy birthday!” </h3><br>
+
 <hr>
 <div style="text-align: center;">
 	<span>
@@ -40,11 +39,11 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	</span>
 </div>
 <hr>
-	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
+	
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
+<p align=center>“Happy birthday! I hope all your birthday wishes and dreams come true.”</p>
+<p align=center><small>“ Another adventure filled year awaits you. Welcome it by celebrating your birthday with pomp and splendor. Wishing you a very happy and fun-filled birthday!”</a> </small></p>
 
 </body>
 </html>
