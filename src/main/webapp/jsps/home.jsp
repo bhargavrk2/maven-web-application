@@ -16,10 +16,6 @@
 	<span>
 		<img src="images/3.jpg" alt="" width="500">
 	</span>
-<hr>
-<br>
-	<h1><h3></h3><br>
-<br>
 <%out.println();%>
 	<h1 align=center>“Count your life by smiles, not tears. Count your age by friends, not years. Happy birthday!”</h1>
 <div style="text-align: center;">
