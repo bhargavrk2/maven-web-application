@@ -40,7 +40,7 @@ out.println();
 	<span style="font-weight: bold;">
 		
 		<br>
-		<a href="mailto:saisoumyapappusanisb@gmail.com">Mail to sowmya</a>
+		<a href="mailto:saisoumyapappusanisb@gmail.com"></a>
 	</span>
 </div>
 <hr>
