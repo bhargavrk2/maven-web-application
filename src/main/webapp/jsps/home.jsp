@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">(｡◕‿◕｡) SAI SOWMYA PAPPUSANI (｡◕‿◕｡)</h1>
-<h1 align="center">ʕ •ᴥ•ʔ WISH U A MANY MORE HAPPY RETURNS OF THE DAY ʕ •ᴥ•ʔ</h1>
+<h1 align="center">(｡◕‿◕｡)   SAI SOWMYA PAPPUSANI   (｡◕‿◕｡)</h1>
+<h1 align="center">ʕ •ᴥ•ʔ   WISH U A MANY MORE HAPPY RETURNS OF THE DAY   ʕ •ᴥ•ʔ</h1>
 	<hr>
 <div style="text-align: center;">
 	<span>
