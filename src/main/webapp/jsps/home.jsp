@@ -21,14 +21,12 @@
 	<h1><h3></h3><br>
 <br>
 <%out.println();%>
-<h2><h3>             “Count your life by smiles, not tears. Count your age by friends, not years. Happy birthday!” </h2><br>
+	<h1 align=center>“Count your life by smiles, not tears. Count your age by friends, not years. Happy birthday!”</h1>
 <div style="text-align: center;">
 	<span>
 		<img src="images/9.jpg" alt="" width="500">
 	</span>
 	<span style="font-weight: bold;">
-		
-		<br>
 		<a href="mailto:saisoumyapappusanisb@gmail.com"></a>
 	</span>
 </div>
